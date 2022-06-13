@@ -6,7 +6,7 @@ I'm a BackEnd developer trying my luck in the FrontEnd world.
 
 **About me**
 
-- 💼 &nbsp; BackEnd Engineer at [OlistPax](https://olistpax.com.br/)
+- 💼 &nbsp; BackEnd Engineer at [Adoorei](https://www.adoorei.com.br)
 
 - 📖 &nbsp; Studying typescript applying to vuejs
 
